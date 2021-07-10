@@ -6,15 +6,11 @@ A project to build a Database for The Idolm@ster ShinyColors
 
 Render chars via spine-runtime
 
-# ShinyColorsDB-CardViewer
-[Here](https://github.com/alex94539/ShinyColorsDB-CardViewer)
-
-Show the info of each idol, unit and Card. Still in progress...
-
 # ShinyColorsDB-Backend
 [Here](https://github.com/alex94539/ShinyColorsDB-BackEnd)
 
 A Express project to serve non-static data to frontend
+Update: merge CardViewer into backend via express + ejs
 
 # ShinyColorsDB-Static
 [Here](https://github.com/alex94539/ShinyColorsDB-Static)
